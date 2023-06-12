@@ -3,7 +3,7 @@
 I'm Mohammaderza and I work as Frontend Web Developer. I have two years of experience in web application developing.
 - 🌱 I’m currently learning react
 - 💬 Ask me about JavaScript / TypeScript
-- ⚡ Fun fact: Always bugs from the backend :D
+- ⚡ Fun fact : Always bugs from the backend :D
 <!--
 **mrGhamari/mrGhamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
