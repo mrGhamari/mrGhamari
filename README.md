@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi everybody 👋
 
 im Mohammaderza,I work in the field of Frontend Web Developer. I've Got two year of experience in develop web application.
 - 🌱 I’m currently learning react
-- 💬 Ask me about JavaScript/TypeScript
+- 💬 Ask me about JavaScript / TypeScript
 - ⚡ Fun fact: Frontend Developers are the artist 😎
 <!--
 **mrGhamari/mrGhamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
