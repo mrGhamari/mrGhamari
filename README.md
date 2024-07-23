@@ -1,7 +1,7 @@
 ### Hi everybody 👋
 
 I'm Mohammaderza and I work as Frontend Web Developer. I have Five years of experience in web application developing.
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning Node js
 - 💬 Ask me about JavaScript / TypeScript
 - ⚡ Fun fact : Always bugs from the backend :D
 <!--
